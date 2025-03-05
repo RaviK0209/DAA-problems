@@ -1,2 +1,6 @@
-# Agressive cows
- placing cows in given no. of stalls within minimum largest possible distance
+# Algorithms
+This repository consists of Algorithms related problems.
+Greedy Algorithm
+Fractional Knapsack
+Activity Selection problem etc.
+
