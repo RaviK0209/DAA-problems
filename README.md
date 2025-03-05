@@ -6,5 +6,7 @@ Greedy Algorithm
 
 Fractional Knapsack
 
+Sorting Algorithms(Selection,Bubble,Insertion)
+
 Activity Selection problem etc.
 
