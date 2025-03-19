@@ -8,5 +8,9 @@ Fractional Knapsack
 
 Sorting Algorithms(Selection,Bubble,Insertion)
 
-Activity Selection problem etc.
+Activity Selection problem 
+
+Tortoise and Hare Cycle Detection Algorithm
+
+Graph Cycle Detection
 
