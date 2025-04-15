@@ -2,7 +2,7 @@
 
 This repository consists of Algorithms related problems.
 
-Greedy Algorithm
+Greedy Algorithms
 
 Fractional Knapsack
 
