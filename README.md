@@ -4,7 +4,7 @@ This repository consists of Algorithms related problems.
 
 Greedy Algorithms
 
-Fractional Knapsack
+Fractional Knapsack problem
 
 Sorting Algorithms(Selection,Bubble,Insertion)
 
