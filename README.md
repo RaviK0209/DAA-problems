@@ -1,6 +1,6 @@
 # Algorithms
 
-This repository consists of Algorithms related problems.
+This repository consists of Algorithms problems.
 
 Greedy Algorithms
 
